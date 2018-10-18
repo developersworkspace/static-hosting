@@ -71,7 +71,7 @@ var AppRoutingModule = /** @class */ (function () {
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<nav>\n  <div class=\"nav-wrapper\">\n      <a href=\"#\" class=\"brand-logo left\"><i class=\"fa fa-bars\"></i>Laminin</a>\n  </div>\n</nav>\n\n<router-outlet></router-outlet>\n"
+module.exports = "<nav>\n  <div class=\"nav-wrapper\">\n      <a href=\"#\" class=\"brand-logo left\"><i class=\"fa fa-bars\"></i>My App</a>\n  </div>\n</nav>\n\n<router-outlet></router-outlet>\n"
 
 /***/ }),
 
